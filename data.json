@@ -8437,6 +8437,46 @@
       "unit_price": 8.0,
       "paid": false,
       "date": "2025-11-12 10:30:54"
+    },
+    "龙湖春江天镜江麓1-1-2-1": {
+      "name": "龙湖春江天镜江麓1-1-2-1",
+      "path": "D:/YunxiData/云熙拆单/柜体数据\\龙湖春江天镜江麓1-1-2-1",
+      "rooms": {
+        "001进门鞋柜": {
+          "name": "001进门鞋柜",
+          "cabinets": {}
+        },
+        "002阳台柜": {
+          "name": "002阳台柜",
+          "cabinets": {}
+        },
+        "003主卧衣柜": {
+          "name": "003主卧衣柜",
+          "cabinets": {}
+        },
+        "004右次卧": {
+          "name": "004右次卧",
+          "cabinets": {}
+        },
+        "005右一次卧": {
+          "name": "005右一次卧",
+          "cabinets": {}
+        },
+        "006左次卧A面": {
+          "name": "006左次卧A面",
+          "cabinets": {}
+        },
+        "008厨房A面": {
+          "name": "008厨房A面",
+          "cabinets": {}
+        }
+      },
+      "total_area": 0,
+      "total_price": 0,
+      "manufacturer": "",
+      "unit_price": 0,
+      "paid": false,
+      "date": "2023-10-02 10:50:48"
     }
   },
   "manufacturers": {
@@ -8454,7 +8494,7 @@
       "unit_price": 6.0
     }
   },
-  "bound_order_dir": "",
-  "timestamp": "2025-11-15T18:13:21.001156",
+  "bound_order_dir": "D:/YunxiData/云熙拆单/柜体数据",
+  "timestamp": "2025-11-15T18:14:28.512878",
   "version": "1.0"
 }
