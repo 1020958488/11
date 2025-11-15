@@ -8452,5 +8452,6 @@
       "name": "余总-模型",
       "unit_price": 6.0
     }
-  }
+  },
+  "bound_order_dir": ""
 }
