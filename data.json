@@ -8200,11 +8200,18 @@
       "rooms": {
         "001门套": {
           "name": "001门套",
-          "cabinets": {}
+          "cabinets": {
+            "柜体1": {
+              "name": "柜体1",
+              "width": 1.0,
+              "height": 1.0,
+              "area": 1e-06
+            }
+          }
         }
       },
-      "total_area": 0,
-      "total_price": 0.0,
+      "total_area": 1e-06,
+      "total_price": 8e-06,
       "manufacturer": "吴姐",
       "unit_price": 8.0,
       "paid": false,
@@ -8495,6 +8502,6 @@
     }
   },
   "bound_order_dir": "D:/YunxiData/云熙拆单/柜体数据",
-  "timestamp": "2025-11-15T19:49:20.475607",
+  "timestamp": "2025-11-15T19:49:48.945896",
   "version": "1.0"
 }
