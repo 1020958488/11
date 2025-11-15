@@ -8483,7 +8483,7 @@
     "吴姐": {
       "name": "吴姐",
       "unit_price": 8.0,
-      "permission": "读"
+      "permission": "读写"
     },
     "卡格尔全屋定制厂": {
       "name": "卡格尔全屋定制厂",
@@ -8495,6 +8495,6 @@
     }
   },
   "bound_order_dir": "D:/YunxiData/云熙拆单/柜体数据",
-  "timestamp": "2025-11-15T19:42:06.863184",
+  "timestamp": "2025-11-15T19:42:49.733888",
   "version": "1.0"
 }
