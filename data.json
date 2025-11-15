@@ -8442,7 +8442,8 @@
   "manufacturers": {
     "吴姐": {
       "name": "吴姐",
-      "unit_price": 8.0
+      "unit_price": 8.0,
+      "permission": "读"
     },
     "卡格尔全屋定制厂": {
       "name": "卡格尔全屋定制厂",
@@ -8454,6 +8455,6 @@
     }
   },
   "bound_order_dir": "",
-  "timestamp": "2025-11-15T18:12:51.604808",
+  "timestamp": "2025-11-15T18:13:21.001156",
   "version": "1.0"
 }
