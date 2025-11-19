@@ -8739,6 +8739,74 @@
       "unit_price": 8.0,
       "paid": false,
       "date": "2025-11-15 20:19:51"
+    },
+    "胡-安徽": {
+      "name": "胡-安徽",
+      "path": "D:/YunxiData/云熙拆单/柜体数据\\胡-安徽",
+      "rooms": {
+        "001电箱柜": {
+          "name": "001电箱柜",
+          "cabinets": {}
+        },
+        "002鞋柜": {
+          "name": "002鞋柜",
+          "cabinets": {}
+        },
+        "003餐边柜": {
+          "name": "003餐边柜",
+          "cabinets": {}
+        },
+        "004电视机柜": {
+          "name": "004电视机柜",
+          "cabinets": {}
+        },
+        "005阳台柜": {
+          "name": "005阳台柜",
+          "cabinets": {}
+        },
+        "006老人房衣柜": {
+          "name": "006老人房衣柜",
+          "cabinets": {}
+        },
+        "007主卧衣柜": {
+          "name": "007主卧衣柜",
+          "cabinets": {}
+        },
+        "008主卧床头柜写字桌": {
+          "name": "008主卧床头柜写字桌",
+          "cabinets": {}
+        },
+        "009窗台柜": {
+          "name": "009窗台柜",
+          "cabinets": {}
+        },
+        "010儿童房衣柜": {
+          "name": "010儿童房衣柜",
+          "cabinets": {}
+        },
+        "011儿童房其他柜子": {
+          "name": "011儿童房其他柜子",
+          "cabinets": {}
+        },
+        "012酒柜冰箱柜": {
+          "name": "012酒柜冰箱柜",
+          "cabinets": {}
+        },
+        "013厨房": {
+          "name": "013厨房",
+          "cabinets": {}
+        },
+        "014门套": {
+          "name": "014门套",
+          "cabinets": {}
+        }
+      },
+      "total_area": 0,
+      "total_price": 0,
+      "manufacturer": "",
+      "unit_price": 0,
+      "paid": false,
+      "date": "2025-04-23 10:59:18"
     }
   },
   "manufacturers": {
@@ -8748,7 +8816,7 @@
       "permission": "读写"
     }
   },
-  "bound_order_dir": "",
-  "timestamp": "2025-11-19T20:19:40.082022",
+  "bound_order_dir": "D:/YunxiData/云熙拆单/柜体数据",
+  "timestamp": "2025-11-19T20:22:45.904550",
   "version": "1.0"
 }
