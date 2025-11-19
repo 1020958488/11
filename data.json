@@ -9,8 +9,14 @@
       "notes": "这是本地更新的测试订单"
     }
   },
-  "manufacturers": {},
+  "manufacturers": {
+    "吴姐": {
+      "name": "吴姐",
+      "unit_price": 8.0,
+      "permission": "读写"
+    }
+  },
   "bound_order_dir": "",
-  "timestamp": "2025-11-19T18:51:47.239436",
+  "timestamp": "2025-11-19T18:53:19.472601",
   "version": "1.0"
 }
