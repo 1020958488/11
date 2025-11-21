@@ -1,7 +1,13 @@
 {
   "orders": {},
-  "manufacturers": {},
+  "manufacturers": {
+    "吴姐": {
+      "name": "吴姐",
+      "unit_price": 8.0,
+      "permission": "读写"
+    }
+  },
   "bound_order_dir": "",
-  "timestamp": "2025-11-21T12:32:26.154958",
+  "timestamp": "2025-11-21T12:32:39.291225",
   "version": "1.0"
 }
