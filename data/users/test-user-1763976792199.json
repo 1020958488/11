@@ -1,0 +1,11 @@
+{
+  "id": "test-1763976792197",
+  "name": "测试用户",
+  "phone": "13800138000",
+  "email": "test@example.com",
+  "role": "designer",
+  "company": "测试公司",
+  "status": "active",
+  "createdAt": "2025-11-24T09:33:12.197Z",
+  "updatedAt": "2025-11-24T09:33:12.198Z"
+}
