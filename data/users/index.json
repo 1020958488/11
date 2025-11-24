@@ -20,5 +20,16 @@
     "id": "1763977029067",
     "createdAt": "2025-11-24T09:37:09.067Z",
     "updatedAt": "2025-11-24T09:37:09.068Z"
+  },
+  {
+    "name": "张三",
+    "phone": "13800138000",
+    "email": "zhangsan@example.com",
+    "role": "designer",
+    "company": "测试设计公司",
+    "status": "active",
+    "id": "1763977482612",
+    "createdAt": "2025-11-24T09:44:42.612Z",
+    "updatedAt": "2025-11-24T09:44:42.613Z"
   }
 ]
