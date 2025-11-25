@@ -26,5 +26,17 @@
     "updatedAt": "2025-11-24T14:17:21.229Z",
     "processedBy": "1763990612310",
     "processedAt": "2025-11-24T14:17:21.229Z"
+  },
+  {
+    "fromUserId": "1764034943435",
+    "toUserId": "1763977730150",
+    "fromRole": "factory",
+    "toRole": "store",
+    "message": "1",
+    "bindingCode": "BC-20251125-7C85I8",
+    "status": "pending",
+    "id": "1764034976428",
+    "createdAt": "2025-11-25T01:42:56.428Z",
+    "updatedAt": "2025-11-25T01:42:56.428Z"
   }
 ]
