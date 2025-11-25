@@ -1,0 +1,50 @@
+{
+  "orderNo": "ORD20251125-104028",
+  "creatorId": "1763977730150",
+  "creatorRole": "store",
+  "bindingCode": "BC-20251124-Q7FHRG",
+  "customerName": "鲁能星城外滩天景3栋21-1",
+  "customerPhone": "",
+  "customerAddress": "",
+  "productName": "鲁能星城外滩天景3栋21-1",
+  "quantity": 1,
+  "material": "",
+  "color": "",
+  "deliveryDate": "2025-12-25",
+  "status": "not_started",
+  "notes": "",
+  "files": {
+    "labels": {
+      "filename": "鲁能星城外滩天景3栋21-1.pdf",
+      "path": "orders/BC-20251124-Q7FHRG/ORD20251125-104028/鲁能星城外滩天景3栋21-1/鲁能星城外滩天景3栋21-1.pdf",
+      "version": "1.0",
+      "size": 18050020,
+      "uploadedAt": "2025-11-25T02:40:28.577Z",
+      "uploadedBy": "1763977730150",
+      "relativePath": ""
+    },
+    "hardwareList": {
+      "filename": "鲁能星城外滩天景3栋21-1.xlsx",
+      "path": "orders/BC-20251124-Q7FHRG/ORD20251125-104028/鲁能星城外滩天景3栋21-1/鲁能星城外滩天景3栋21-1.xlsx",
+      "version": "1.0",
+      "size": 199322,
+      "uploadedAt": "2025-11-25T02:40:28.578Z",
+      "uploadedBy": "1763977730150",
+      "relativePath": ""
+    },
+    "materialList": {
+      "filename": "鲁能星城外滩天景3栋21-1_领料单.xlsx",
+      "path": "orders/BC-20251124-Q7FHRG/ORD20251125-104028/鲁能星城外滩天景3栋21-1/鲁能星城外滩天景3栋21-1_领料单.xlsx",
+      "version": "1.0",
+      "size": 16471,
+      "uploadedAt": "2025-11-25T02:40:28.578Z",
+      "uploadedBy": "1763977730150",
+      "relativePath": ""
+    }
+  },
+  "boundFactories": [],
+  "id": "ORD20251125-104028",
+  "createdAt": "2025-11-25T02:40:35.534Z",
+  "updatedAt": "2025-11-25T02:40:35.534Z",
+  "version": 1
+}
