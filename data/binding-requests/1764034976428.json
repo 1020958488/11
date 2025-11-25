@@ -5,8 +5,10 @@
   "toRole": "store",
   "message": "1",
   "bindingCode": "BC-20251125-7C85I8",
-  "status": "pending",
+  "status": "accepted",
   "id": "1764034976428",
   "createdAt": "2025-11-25T01:42:56.428Z",
-  "updatedAt": "2025-11-25T01:42:56.428Z"
+  "updatedAt": "2025-11-25T01:43:48.600Z",
+  "processedBy": "1763977730150",
+  "processedAt": "2025-11-25T01:43:48.600Z"
 }
