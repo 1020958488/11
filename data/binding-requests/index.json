@@ -48,9 +48,11 @@
     "toRole": "designer",
     "message": "1",
     "bindingCode": "BC-20251125-DDUAT3",
-    "status": "pending",
+    "status": "accepted",
     "id": "1764035054278",
     "createdAt": "2025-11-25T01:44:14.278Z",
-    "updatedAt": "2025-11-25T01:44:14.278Z"
+    "updatedAt": "2025-11-25T01:45:01.324Z",
+    "processedBy": "1763990612310",
+    "processedAt": "2025-11-25T01:45:01.324Z"
   }
 ]
