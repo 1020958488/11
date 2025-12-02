@@ -10831,9 +10831,14 @@
       "name": "裕民-王浩",
       "unit_price": 9.0,
       "permission": "读写"
+    },
+    "柜门厂": {
+      "name": "柜门厂",
+      "unit_price": 3.0,
+      "permission": "读写"
     }
   },
   "bound_order_dir": "",
-  "timestamp": "2025-12-02T14:31:33.835144",
+  "timestamp": "2025-12-02T14:34:19.778709",
   "version": "1.0"
 }
