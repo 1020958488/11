@@ -10826,9 +10826,14 @@
       "name": "吴姐",
       "unit_price": 8.0,
       "permission": "读写"
+    },
+    "裕民-王浩": {
+      "name": "裕民-王浩",
+      "unit_price": 9.0,
+      "permission": "读写"
     }
   },
   "bound_order_dir": "",
-  "timestamp": "2025-12-02T14:28:05.587011",
+  "timestamp": "2025-12-02T14:28:53.881435",
   "version": "1.0"
 }
