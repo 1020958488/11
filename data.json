@@ -10814,9 +10814,9 @@
         }
       },
       "total_area": 43.78305,
-      "total_price": 350.2644,
-      "manufacturer": "吴姐",
-      "unit_price": 8.0,
+      "total_price": 394.04745,
+      "manufacturer": "裕民-王浩",
+      "unit_price": 9.0,
       "paid": false,
       "date": "2025-11-28 08:37:31"
     }
@@ -10834,6 +10834,6 @@
     }
   },
   "bound_order_dir": "",
-  "timestamp": "2025-12-02T14:29:06.612594",
+  "timestamp": "2025-12-02T14:29:19.654560",
   "version": "1.0"
 }
